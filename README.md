@@ -8,7 +8,7 @@ Backend para cadastro de usuários, utilizando **Node.js**, **Express**, e **Pri
 - **MongoDB**: Banco de dados NoSQL
 - **Prisma**: ORM para facilitar o acesso e manipulação do banco de dados.
 
-Endpoints
+## Endpoints
 
 POST /api/usuarios: Cria um novo usuário.
 GET /api/usuarios: Retorna todos os usuários.
@@ -16,6 +16,6 @@ GET /api/usuarios/:id: Retorna um usuário específico.
 PUT /api/usuarios/:id: Atualiza um usuário.
 DELETE /api/usuarios/:id: Deleta um usuário.
 
-Licença
+## Licença
 
 Este projeto está licenciado sob a MIT License.
