@@ -10,11 +10,11 @@ Backend para cadastro de usuários, utilizando **Node.js**, **Express**, e **Pri
 
 ## Endpoints
 
-POST /api/usuarios: Cria um novo usuário.
-GET /api/usuarios: Retorna todos os usuários.
-GET /api/usuarios/:id: Retorna um usuário específico.
-PUT /api/usuarios/:id: Atualiza um usuário.
-DELETE /api/usuarios/:id: Deleta um usuário.
+- POST /api/usuarios: Cria um novo usuário.
+- GET /api/usuarios: Retorna todos os usuários.
+- GET /api/usuarios/:id: Retorna um usuário específico.
+- PUT /api/usuarios/:id: Atualiza um usuário.
+- DELETE /api/usuarios/:id: Deleta um usuário.
 
 ## Licença
 
